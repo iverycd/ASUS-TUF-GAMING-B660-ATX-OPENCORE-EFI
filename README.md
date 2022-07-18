@@ -1,5 +1,6 @@
 # ASUS-TUF-GAMING-B660-ATX-OPENCORE-EFI
 ## 一、配置
+```bash
 主板:华硕TUF GAMING B660 WIFI D4
 CPU:INTEL i7 12700
 内存:芝奇皇家戟F4-3600C18D  32G(16GX2)
@@ -9,9 +10,13 @@ CPU:INTEL i7 12700
 机箱: 先马鲁班1
 显卡:蓝宝石RX6600XT 超白金
 风扇:利民TL-B12WS X4
-opencore版本:0.8.2
+```
 
-## 二、安装
+## 二、opencore版本
+
+`0.8.2`
+
+## 三、安装
 1、windows下使用balenaEtcher
 
 
@@ -100,7 +105,7 @@ u盘插在上面
 
 
 
-## 三、完善情况
+## 四、完善情况
 1、睡眠正常，机箱电源按钮进行唤醒
 2、metal功能集正常
 
@@ -117,7 +122,7 @@ u盘插在上面
 5、声卡正常
 6、无线wifi以及蓝牙未测试
 
-## 四、跑分
+## 五、跑分
 
 ![image](https://user-images.githubusercontent.com/35289289/179439060-e070034c-35a8-4adb-aec3-c39b3312026f.png)
 
