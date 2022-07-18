@@ -107,6 +107,7 @@ u盘插在上面
 
 ## 四、完善情况
 1、睡眠正常，机箱电源按钮进行唤醒
+
 2、metal功能集正常
 
 ![image](https://user-images.githubusercontent.com/35289289/179439288-d9abbe70-b671-49f8-b920-5ab566805ae8.png)
@@ -120,6 +121,7 @@ u盘插在上面
 ![image](https://user-images.githubusercontent.com/35289289/179440241-22483e75-d23c-4144-a7de-fcb0fab7744a.png)
 
 5、声卡正常
+
 6、无线wifi以及蓝牙未测试
 
 ## 五、跑分
