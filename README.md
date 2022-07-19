@@ -12,6 +12,17 @@ CPU:INTEL i7 12700
 风扇:利民TL-B12WS X4
 ```
 
+![image](https://user-images.githubusercontent.com/35289289/179716053-05308723-a524-47ea-9618-e56740146c4a.png)
+
+![image](https://user-images.githubusercontent.com/35289289/179716209-24d0f839-8bc9-4199-ac34-2a6a4e64aed6.png)
+
+![image](https://user-images.githubusercontent.com/35289289/179717138-f7491f23-e60b-4493-8b1a-16848f9fa862.png)
+
+![image](https://user-images.githubusercontent.com/35289289/179717256-532b2cf9-3ce0-4ffc-887b-24be4c6e012f.png)
+
+
+
+
 ## 二、opencore版本
 
 `0.8.2`
