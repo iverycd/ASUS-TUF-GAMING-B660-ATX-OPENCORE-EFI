@@ -118,9 +118,15 @@ u盘插在上面
 
 4、板载网卡Intel(R) Ethernet Controller (3) I225-V (10.0.80.26)在macOS 12.4驱动正常，可正常上网
 
-![image](https://user-images.githubusercontent.com/35289289/179440241-22483e75-d23c-4144-a7de-fcb0fab7744a.png)
+![image](https://user-images.githubusercontent.com/35289289/179714931-5e2f975a-d8f1-42e4-a129-761c944513e7.png)
+
 
 5、声卡正常
+
+![image](https://user-images.githubusercontent.com/35289289/179715047-0d246098-83c7-4a98-8719-033455e121c7.png)
+
+
+
 
 6、无线wifi以及蓝牙未测试
 
