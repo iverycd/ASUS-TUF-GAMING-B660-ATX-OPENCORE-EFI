@@ -1,8 +1,8 @@
-# ASUS-TUF-GAMING-B660-ATX-OPENCORE-EFI RUN macOS 12.4
+# ASUS-TUF-GAMING-B660-ATX-OPENCORE-EFI WITH macOS 12.5
 ## 一、配置
 ```bash
-主板:华硕TUF GAMING B660 WIFI D4
-CPU:INTEL i7 12700
+主板:华硕TUF GAMING B660 WIFI D4(ATX版型)
+CPU:INTEL i7 12700 （最大睿频4.90 GHz)
 内存:芝奇皇家戟F4-3600C18D  32G(16GX2)
 电源:长城G6 650W金牌全模组
 硬盘:西数SN850 500G (macOS)  铠侠RC20 500G (WIN) 三星PM981A 512G (GAME)
@@ -25,7 +25,7 @@ CPU:INTEL i7 12700
 
 ## 二、opencore版本
 
-`0.8.2`
+`0.8.3`
 
 ## 三、安装
 1、windows下使用balenaEtcher
@@ -119,7 +119,7 @@ u盘插在上面
 ## 四、完善情况
 1、睡眠正常，机箱电源按钮进行唤醒
 
-2、metal功能集正常
+2、RX6600XT metal功能集正常
 
 ![image](https://user-images.githubusercontent.com/35289289/179439288-d9abbe70-b671-49f8-b920-5ab566805ae8.png)
 
@@ -127,19 +127,26 @@ u盘插在上面
 
 ![image](https://user-images.githubusercontent.com/35289289/179439367-25dec9b0-4f14-4f4d-9299-3a3e1de2de6c.png)
 
-4、板载网卡Intel(R) Ethernet Controller (3) I225-V (10.0.80.26)在macOS 12.4驱动正常，可正常上网
+4、板载网卡Intel(R) Ethernet Controller (3) I225-V (10.0.80.26)在macOS 12.4，12.5驱动正常，可正常上网
 
 ![image](https://user-images.githubusercontent.com/35289289/179714931-5e2f975a-d8f1-42e4-a129-761c944513e7.png)
 
 
-5、声卡正常
+5、声卡Realtek ALC897正常
 
 ![image](https://user-images.githubusercontent.com/35289289/179715047-0d246098-83c7-4a98-8719-033455e121c7.png)
 
 
 
+6、板载无线WiFi正常
 
-6、无线wifi以及蓝牙未测试
+![image](https://user-images.githubusercontent.com/35289289/185854375-2941940b-b26b-49f2-8029-ccaa8857eaef.png)
+
+
+7、板载蓝牙Intel(R) Wi-Fi 6 AX201 160MHz正常
+
+![image](https://user-images.githubusercontent.com/35289289/185854465-3911c8fe-470f-4394-9864-7b33a1af0558.png)
+
 
 ## 五、跑分
 
@@ -151,9 +158,21 @@ u盘插在上面
 
 
 
+## 六、硬件
+
+![image](https://user-images.githubusercontent.com/35289289/185855457-e6d4fef2-6b58-4e0e-a35c-f5e5c2ae9dee.png)
 
 
+![image](https://user-images.githubusercontent.com/35289289/185855518-c8562ead-3fb0-47bb-8e8b-37781abb1d1e.png)
 
+
+![image](https://user-images.githubusercontent.com/35289289/185855610-6ec3f122-47a1-4837-ad03-7c3a53831238.png)
+
+
+![image](https://user-images.githubusercontent.com/35289289/185855660-4ca28445-dd50-4a60-a2cb-103307502603.png)
+
+
+![image](https://user-images.githubusercontent.com/35289289/185855732-5a744592-0fd1-49c8-b9db-d60255572431.png)
 
 
 
