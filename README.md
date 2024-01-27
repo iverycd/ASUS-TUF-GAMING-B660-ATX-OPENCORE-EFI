@@ -1,4 +1,4 @@
-# ASUS-TUF-GAMING-B660-ATX-OPENCORE-EFI WITH macOS 12.5
+# ASUS-TUF-GAMING-B660-ATX-OPENCORE-EFI
 ## 一、配置
 ```bash
 主板:华硕TUF GAMING B660 WIFI D4(ATX版型)
@@ -11,6 +11,18 @@ CPU:INTEL i7 12700 （最大睿频4.90 GHz)
 显卡:蓝宝石RX6600XT 超白金
 风扇:利民TL-B12WS X4
 ```
+
+| Hardware    | Description                             | Work or not |
+| ----------- | --------------------------------------- | ----------- |
+| CPU         | 12th Gen Intel(R) Core(TM) i7-12700   | ✅           |
+| Motherboard | ASUS TUF GAMING B660-PLUS WIFI D4      | ✅           |
+| GPU         | Sapphire RX 6600XT 8G        | ✅           |
+| RAM         | gskill Trident Z Royal  3600MHz 16GB*2                 | ✅           |
+| SSD         | SN850 512G PCIE4.0  | ✅           |
+| Sound Card  | Realtek-ALC897                          | ✅           |
+| Ethernet    | Intel i225-v 2.5Gb              | ✅           |
+| WNIC        | Intel Wi-Fi 6 AX201 With BT 5.2         | ✅           |
+
 
 ![image](https://user-images.githubusercontent.com/35289289/179716053-05308723-a524-47ea-9618-e56740146c4a.png)
 
